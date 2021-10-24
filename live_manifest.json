@@ -1,0 +1,6 @@
+{
+    "input_type": "rtmp",
+    "targets": [{"kind": "hls"}, {"kind": "file"}],
+    "idle_timeout_sec": 120,
+    "max_runtime_sec": 32000
+  }
